@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi! 👋 I'm Flávio José Bianchetti
 
-<!--
-**flavio-bianchetti/flavio-bianchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stars: https://github.com/anuraghazra/github-readme-stats -->
+<div>
+  <a href="https://github.com/flavio-bianchetti/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/flavio-bianchetti/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&theme=gruvbox" />
+  </a>
+</div>
