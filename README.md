@@ -34,6 +34,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      target="_blank"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -41,6 +42,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+      target="_blank"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -48,6 +50,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      target="_blank"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank">
@@ -55,6 +58,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      target="_blank"
     />
   </a>
   <a href="https://redux.js.org/" target="_blank">
@@ -62,6 +66,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+      target="_blank"
     />
   </a>
 </section>
@@ -73,6 +78,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
     />
   </a>
   <a href="https://www.instagram.com/flavio.bianchetti/" target="_blank">
@@ -80,6 +86,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank"
     />
   </a>
   <a href="mailto:fjb.developer@gmail.com" target="_blank">
@@ -87,6 +94,7 @@
       align="center"
       height="30"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blank"
     />
   </a>
 </section>
