@@ -29,31 +29,41 @@
 <hr />
 <!-- Language's icons: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <section style="display: inline-block;">
-  <img
-    align="center"
-    height="30"
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  />
-  <img
-    align="center"
-    height="30"
-    src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-  />
-  <img
-    align="center"
-    height="30"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  />
-  <img
-    align="center"
-    height="30"
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-  />
-  <img
-    align="center"
-    height="30"
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    />
+  </a>
 </section>
 <hr />
 <!-- -->
