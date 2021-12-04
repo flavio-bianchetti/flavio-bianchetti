@@ -81,5 +81,9 @@
   </a>
 </section>
 <hr />
-
-![snake gif](https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.gif)
+<section>
+  <img
+    align="center"
+    src="https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.svg"
+  />
+</section>
