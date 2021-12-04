@@ -1,11 +1,85 @@
 ### Hi! 👋 I'm Flávio José Bianchetti
 
 <!-- GitHub Stars: https://github.com/anuraghazra/github-readme-stats -->
-<div>
+<section
+  style="
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  "
+>
   <a href="https://github.com/flavio-bianchetti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&theme=gruvbox" />
+    <img
+      height="150em"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&theme=gruvbox"
+      alt="flavio-bianchetti's stats"
+    />
   </a>
   <a href="https://github.com/flavio-bianchetti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&theme=gruvbox" />
+    <img
+      height="150em"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&theme=gruvbox"
+      alt="flavio-bianchetti's top langs"
+    />
   </a>
-</div>
+</section>
+<hr />
+<!-- Language's icons: https://dev.to/envoy_/150-badges-for-github-pnk -->
+<section style="display: inline-block;">
+  <img
+    align="center"
+    height="30"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  <img
+    align="center"
+    height="30"
+    src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+  />
+  <img
+    align="center"
+    height="30"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  />
+  <img
+    align="center"
+    height="30"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  />
+  <img
+    align="center"
+    height="30"
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+  />
+</section>
+<hr />
+<!-- -->
+<section>
+  <a href="https://www.linkedin.com/in/flaviobianchetti/" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://www.instagram.com/flavio.bianchetti/" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="mailto:fjb.developer@gmail.com" target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+</section>
+<hr />
+
+![snake gif](https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.gif)
