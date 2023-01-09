@@ -52,7 +52,7 @@ Bachelor of Computer Science and Computer Technician, passionate about programmi
     <img
       height="150em"
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&theme=gruvbox"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&theme=gruvbox"
       alt="flavio-bianchetti's stats"
     />
   </a>
@@ -60,7 +60,7 @@ Bachelor of Computer Science and Computer Technician, passionate about programmi
     <img
       height="150em"
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&theme=gruvbox"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&theme=gruvbox"
       alt="flavio-bianchetti's top langs"
     />
   </a>
