@@ -68,8 +68,8 @@ Bachelor of Computer Science and Computer Technician, passionate about programmi
 
 --------------------
 <section>
-  <img
-    align="center"
-    src="https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.svg"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.svg)" />
+    <img alt="flavio-bianchetti's github-snake" src="github-snake.svg" align="center" />
+  </picture>
 </section>
