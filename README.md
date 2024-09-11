@@ -1,4 +1,4 @@
-Hi 👋 My name is Flávio José Bianchetti
+Hi 👋 My name is Flávio Bianchetti
 =======================================
 
 Full Stack developer
