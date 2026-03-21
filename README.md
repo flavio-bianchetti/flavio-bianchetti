@@ -1,42 +1,56 @@
 Hi 👋 My name is Flávio Bianchetti
 =======================================
 
-Full Stack developer
---------------------
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=D79921&width=760&lines=Python+Developer+%7C+AI+Integrations+%7C+Cloud;AWS+and+PostgreSQL+for+production-ready+solutions;RAG+applications+and+n8n+automation+projects"
+    alt="Typing SVG"
+  />
+</p>
 
-Bachelor of Computer Science and Computer Technician, passionate about programming and technology. Currently a Web Development student at Trybe, already certified in the Fundamentals, Frontend and Backend modules, now seeking certification in the Computer Science module. I try to get involved in projects that add value to people's lives, always valuing empathy and collaboration.
+Python Developer | AI Integrations | Cloud Automation
+-----------------------------------------------------
+
+Bachelor in Computer Science and Computer Technician with a strong focus on Python development, cloud architecture, and automation. I build production-oriented solutions with AWS and PostgreSQL, working on AI integrations, RAG-based applications, and n8n workflows designed to solve real business problems and create value for people.
 
 * 🌍  I'm based in Barbacena - Minas Gerais - Brazil
-* 🖥️  See my portfolio at [Portfolio](http://flaviobianchetti.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](https://flaviobianchetti.netlify.app/)
 * ✉️  You can contact me at [fjb.developer@gmail.com](mailto:fjb.developer@gmail.com)
-* 🧠  I'm learning Tests, Flutter, GoLang, AWS, Blockchain, IA, Microservices and Information Security.
-* 🤝  I'm open to collaborating on in projects that add value to people's lives.
+* ☁️  My current stack is centered on Python, AWS, and PostgreSQL.
+* 🧠  I'm deepening my knowledge in AI learning workflows, prompt engineering, Oracle Cloud, Cloudflare, Google APIs, and Microsoft Power Automate.
+* 🤝  I'm looking to collaborate on automation, AI integration, and cloud projects that add value to people's lives.
+
+--------------------
+### Current Focus
+
+* Building AI-enabled products with `Python`, `RAG`, and external service integrations.
+* Designing cloud workflows and back-end solutions with `AWS` and `PostgreSQL`.
+* Creating automations in `n8n`, with and without AI, for operational efficiency and smarter processes.
 
 --------------------
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs" />
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF?style=for-the-badge" alt="Microsoft Power Automate" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" alt="n8n" />
+  <img src="https://img.shields.io/badge/RAG%20Applications-111827?style=for-the-badge" alt="RAG Applications" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
 </p>
 
---------------------
-### Socials
+### Connect with me
 
-<p align="left"> <a href="https://discord.com/users/Flávio Bianchetti#6094" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/flavio-bianchetti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/flavio.bianchetti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/flaviobianchetti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/flaviojb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="mailto:fjb.developer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/flaviobianchetti" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Fl%C3%A1vio%20Bianchetti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.github.com/flavio-bianchetti" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-flavio--bianchetti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://flaviobianchetti.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 --------------------
 <!-- GitHub Stars: https://github.com/anuraghazra/github-readme-stats -->
@@ -52,7 +66,7 @@ Bachelor of Computer Science and Computer Technician, passionate about programmi
     <img
       height="150em"
       align="center"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&theme=gruvbox"
+      src="https://github-readme-stats.vercel.app/api?username=flavio-bianchetti&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D79921&icon_color=D79921&text_color=C9D1D9&border_color=30363D"
       alt="flavio-bianchetti's stats"
     />
   </a>
@@ -60,17 +74,10 @@ Bachelor of Computer Science and Computer Technician, passionate about programmi
     <img
       height="150em"
       align="center"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&theme=gruvbox"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-bianchetti&layout=compact&hide_border=true&bg_color=00000000&title_color=D79921&text_color=C9D1D9&border_color=30363D"
       alt="flavio-bianchetti's top langs"
     />
   </a>
 </section>
 
 --------------------
-<section>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/flavio-bianchetti/flavio-bianchetti/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</section>
