@@ -28,6 +28,17 @@ Bachelor in Computer Science and Computer Technician with a strong focus on Pyth
 * Creating automations in `n8n`, with and without AI, for operational efficiency and smarter processes.
 
 --------------------
+### RepoVerse
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/flavio-bianchetti/flavio-bianchetti/main/public/repoverse-universe-3d.svg"
+    alt="Animated solar system view of my GitHub repositories"
+    width="100%"
+  />
+</p>
+
+--------------------
 ### Skills
 
 <p align="left">

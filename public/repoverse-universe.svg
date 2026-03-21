@@ -1,0 +1,18 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="520" rx="24" fill="#0D1117"/>
+  <circle cx="360" cy="260" r="66" fill="#D79921"/>
+  <circle cx="360" cy="260" r="122" stroke="#374151" stroke-width="2" stroke-dasharray="8 10"/>
+  <circle cx="360" cy="260" r="182" stroke="#374151" stroke-width="2" stroke-dasharray="8 10"/>
+  <circle cx="478" cy="260" r="14" fill="#60A5FA"/>
+  <circle cx="360" cy="78" r="16" fill="#A78BFA"/>
+  <rect x="610" y="160" width="370" height="200" rx="18" fill="#111827" stroke="#374151"/>
+  <text x="640" y="215" fill="#F9FAFB" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">
+    RepoVerse setup ready
+  </text>
+  <text x="640" y="258" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="20">
+    Push this workflow to GitHub and the
+  </text>
+  <text x="640" y="290" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="20">
+    generated solar system will appear here.
+  </text>
+</svg>

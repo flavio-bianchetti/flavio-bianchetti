@@ -1,0 +1,59 @@
+name: Update RepoVerse
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-repoverse:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Checkout RepoVerse generator
+        uses: actions/checkout@v4
+        with:
+          repository: nimaldanyathk/repo-verse
+          ref: main
+          path: .tmp/repo-verse
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: .tmp/repo-verse/package-lock.json
+
+      - name: Install RepoVerse dependencies
+        working-directory: .tmp/repo-verse
+        run: npm ci
+
+      - name: Generate RepoVerse assets
+        working-directory: .tmp/repo-verse
+        run: npx tsx scripts/generate.ts ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy generated SVGs
+        run: |
+          mkdir -p public
+          cp .tmp/repo-verse/public/universe.svg public/repoverse-universe.svg
+          cp .tmp/repo-verse/public/universe-3d.svg public/repoverse-universe-3d.svg
+
+      - name: Commit generated assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update repoverse assets [skip ci]"
+          file_pattern: "public/repoverse-*.svg"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
