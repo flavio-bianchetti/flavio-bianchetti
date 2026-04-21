@@ -45,12 +45,12 @@
 
   <!-- Planets (3D Orbits) -->
   
-      <!-- Planet: ik-frontend -->
+      <!-- Planet: flavio-bianchetti -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-0" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
-            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -98,13 +98,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/flavio-bianchetti/ik-frontend" target="_blank" style="cursor: pointer;">
-                <circle r="39.81183147380142" fill="url(#planetGrad3D-0)">
-                    <title>ik-frontend (JavaScript)</title>
+            <a href="https://github.com/flavio-bianchetti/flavio-bianchetti" target="_blank" style="cursor: pointer;">
+                <circle r="30.66604418446824" fill="url(#planetGrad3D-0)">
+                    <title>flavio-bianchetti (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="39.81183147380142" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="30.66604418446824" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -114,12 +114,12 @@
       </g>
     
 
-      <!-- Planet: ik-backend -->
+      <!-- Planet: ik-frontend -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
+            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -167,13 +167,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/flavio-bianchetti/ik-backend" target="_blank" style="cursor: pointer;">
-                <circle r="35.37189193820978" fill="url(#planetGrad3D-1)">
-                    <title>ik-backend (TypeScript)</title>
+            <a href="https://github.com/flavio-bianchetti/ik-frontend" target="_blank" style="cursor: pointer;">
+                <circle r="39.81183147380142" fill="url(#planetGrad3D-1)">
+                    <title>ik-frontend (JavaScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="35.37189193820978" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="39.81183147380142" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -183,12 +183,12 @@
       </g>
     
 
-      <!-- Planet: flavio-bianchetti -->
+      <!-- Planet: ik-backend -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -236,13 +236,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/flavio-bianchetti/flavio-bianchetti" target="_blank" style="cursor: pointer;">
-                <circle r="30.48952268439944" fill="url(#planetGrad3D-2)">
-                    <title>flavio-bianchetti (null)</title>
+            <a href="https://github.com/flavio-bianchetti/ik-backend" target="_blank" style="cursor: pointer;">
+                <circle r="35.37189193820978" fill="url(#planetGrad3D-2)">
+                    <title>ik-backend (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="30.48952268439944" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="35.37189193820978" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -740,10 +740,10 @@
   
       <g opacity="0">
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> ik-frontend</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 738kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> flavio-bianchetti</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 35kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -751,10 +751,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> ik-backend</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 168kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> ik-frontend</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 738kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -762,10 +762,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> flavio-bianchetti</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 33kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> ik-backend</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 168kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
